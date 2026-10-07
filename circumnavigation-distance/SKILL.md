@@ -5,10 +5,10 @@ description: Measure the official shortest-swimmable-path distance for a swim ci
 
 # Circumnavigation Distance Measurement
 
-Computes the WOWSA shortest-swimmable-path distance for a circumnavigation swim from the
+Computes the official shortest-swimmable-path distance for a circumnavigation swim from the
 swimmer's own GPS track, and builds the public route analysis page for it. Full worked case
 study, with every bug this method hit and how each was found and fixed:
-[swim-1033-ireland-circumnavigation](https://github.com/rose2023va/swim-1033-ireland-circumnavigation).
+[swim-1033-ireland-circumnavigation](https://github.com/rosevillanuevadev/swim-1033-ireland-circumnavigation).
 **Read that repository's `docs/` before running this on a new swim if this is the first use in a
 session.** The two failures documented there are easy to reintroduce from first principles.
 
