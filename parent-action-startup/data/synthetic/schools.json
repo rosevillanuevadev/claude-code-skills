@@ -1,0 +1,6 @@
+{
+  "schools": [
+    {"id": "school_demo_1", "name": "Northfield Academy", "timezone": "Asia/Manila"},
+    {"id": "school_demo_2", "name": "Harbor School", "timezone": "Europe/London"}
+  ]
+}

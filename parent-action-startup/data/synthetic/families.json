@@ -1,0 +1,17 @@
+{
+  "families": [
+    {
+      "id": "family_demo_1",
+      "name": "Demo Family",
+      "members": [
+        {"id": "adult_1", "name": "Alex Parent", "role": "guardian"},
+        {"id": "adult_2", "name": "Jamie Parent", "role": "guardian"},
+        {"id": "adult_3", "name": "Casey Assistant", "role": "assistant"}
+      ],
+      "children": [
+        {"id": "child_1", "name": "Sam", "school_id": "school_demo_1"},
+        {"id": "child_2", "name": "Mia", "school_id": "school_demo_2"}
+      ]
+    }
+  ]
+}

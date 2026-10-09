@@ -1,0 +1,14 @@
+{
+  "records": [
+    {
+      "id": "absence_1",
+      "child_id": "child_1",
+      "direction": "parent_to_school",
+      "type": "absence_notice",
+      "absence_dates": ["2026-10-12"],
+      "reason_category": "illness",
+      "status": "waiting",
+      "recipient": "adviser@example.invalid"
+    }
+  ]
+}

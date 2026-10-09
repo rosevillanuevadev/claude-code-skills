@@ -1,0 +1,14 @@
+{
+  "records": [
+    {
+      "id": "notice_1",
+      "child_id": "child_1",
+      "direction": "school_to_parent",
+      "type": "consent",
+      "title": "Museum Trip Consent",
+      "status": "needs_action",
+      "due_date": "2026-10-20",
+      "source_type": "manual"
+    }
+  ]
+}
